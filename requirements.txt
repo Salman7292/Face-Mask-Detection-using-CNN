@@ -1,0 +1,8 @@
+requests
+numpy
+streamlit
+matplotlib
+Pillow
+streamlit-option-menu
+opencv-python
+tensorflow
